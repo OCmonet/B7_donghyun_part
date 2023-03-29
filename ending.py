@@ -1,7 +1,7 @@
 import time
 import subprocess  # 게임종료 시, 재시작 불러오는 명령
 
-# 엔딩 시작
+# 엔딩 시작 [2분 짜리]
 ask_ending = input(
     "\n\n\n\n\n\n\n\n\n축하합니다!! 게임을 클리어하셨습니다!!\n\n엔딩을 보시겠습니까?\n(y/n)\n\n\n\n\n\n 답변: ")
 
