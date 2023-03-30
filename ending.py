@@ -71,7 +71,7 @@ if ask_ending == "y" or ask_ending == "yes" or ask_ending == "Y":
     time.sleep(3)
     print("\n\n\n\n\n\n\n\n초점없이 누워 천장을 보던 시야에 무언가가 스윽 들어온다.\n\n\n\n\n\n")
     time.sleep(4)
-    print("\n\n\n\n\n\n\n\n눈부시게 빛나는 노란 솜털들\n\n\n\n\n\n")
+    print(f"\n\n\n\n\n\n\n\n눈부시게 빛나는 .\033[33m노란 솜털들.\033[0m\n\n\n\n\n\n")
     time.sleep(3)
     print("\n\n\n\n\n\n\n\n무엇인지 알 수 없지만 가볍고 포근하고 거대한 빛이\n\n\n\n\n\n")
     time.sleep(3)
